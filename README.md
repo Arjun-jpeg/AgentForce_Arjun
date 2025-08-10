@@ -21,9 +21,9 @@ It helps students create semester-by-semester plans, stores them in Google Sheet
 ---
 
 ## 📂 Files in this repository
-- `AgentForce_Arjunprod.json` — The exported **n8n workflow**.  
+- `AgentForce_Arjunfinal.json` — The exported **n8n workflow**.  
   You can import this into your own n8n instance to run the project.
-- `Architecture_Documentation.pdf` — Explains how the system works (components, data flow, etc.).
+- `AgentForce_Arjun(1).pdf` — Explains how the system works (components, data flow, etc.).
 - PPT explaining the n8n workflow.
 
 
