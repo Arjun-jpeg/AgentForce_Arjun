@@ -30,7 +30,7 @@ It helps students create semester-by-semester plans, stores them in Google Sheet
 ---
 
 ## 🚀 How to Use
-1. **Download** the `AgentForce_Arjunprod.json` file from this repo.
+1. **Download** the `AgentForce_Arjunfinall.json` file from this repo.
 2. **Import** it into your n8n instance:
    - In n8n, click **Import Workflow**.
    - Select the JSON file.
